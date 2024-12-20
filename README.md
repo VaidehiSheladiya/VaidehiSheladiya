@@ -48,7 +48,7 @@ Hello! I'm **Vaidehi Sheladiya**, a passionate **Computer Science Engineer** bas
 
 **Additional Details:**
 
-- **Bachelor of Engineering | information technology**
+- **Bachelor of Engineering | computer science and engineering**
   - Graduation: 2025
   - Institution: New Lok Jagruti University (NLJU) – Ahmedabad
   - SPI: 9.04 (Sem-VI)
